@@ -1,0 +1,47 @@
+.containerblack{
+    width:100vw;
+    height: 10vh;
+    background-color: black;
+}
+
+.containerblack h3{
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.coluna{
+    height:650px;
+    margin: 30px;
+}
+.txtbox{
+    display: flex;
+    flex-wrap: wrap;    
+    height: 115px;
+    background-color: rgba(245, 222, 179, 0.527);
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.contimg{
+
+    background-color: rgba(151, 219, 246, 0.568);
+    margin-left: auto; 
+    margin-right: auto;
+    margin-top: 1.5vh;
+    padding: 5px;
+    width: fit-content;
+    height: fit-content;
+
+}
+
+.fundocard{
+    margin-top: 8vh;
+    position:relative;
+    bottom: 3px;
+    background-color: rgb(37, 37, 37);
+    padding: 10px;
+    height: 570px;
+}
